@@ -1,0 +1,6 @@
+id,name,age,dept,disgnation,salary,phone,address
+1,John Doe,28,Engineering,Software Engineer,75000.50,1234567890,"123 Main St, New York, NY"
+2,Jane Smith,32,Marketing,Marketing Manager,82000.75,2345678901,"456 Park Ave, Los Angeles, CA"
+3,Emily Davis,24,Human Resources,HR Specialist,56000.00,3456789012,"789 Broadway, Chicago, IL"
+4,Michael Brown,45,Finance,Financial Analyst,92000.20,4567890123,"321 Elm St, Houston, TX"
+5,David Wilson,38,Engineering,Senior Developer,105000.00,5678901234,"654 Oak Rd, Phoenix, AZ"
